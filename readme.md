@@ -1,10 +1,12 @@
 COMPILE
+
 To compile ContactsExample just open the project, select the "Contacts 2" target in the left-upper part of xcode then press the run button. 
 ContactsExample does not have any dependencies with third party libraries.
 The app should run correctly without our 'team provisioning profile'.
 
 
 MANUAL 
+
 This is an app with the purpose of recreating a simple contacts library. 
 The app loeses the contacts data each time the user restarts the app. 
 Each contact that is stored has three values: name, surname and phone number.
@@ -22,4 +24,5 @@ The contacts taken from the apple official contacts library are an exception. In
 
 
 LICENSE
+
 ContactsExample is available under the MIT license. See the LICENSE file for more info.
